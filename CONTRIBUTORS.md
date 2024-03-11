@@ -24,3 +24,6 @@ Contributors List
      Kuwuamenu Kofi Gabriel
      	Contributions: mobile app development.
 	GitHub: @carlysberg
+     Amponsah Ahenkorah Nelson 
+    Contributions: Backend Boilerplate.
+       Github: @nelsonamponsah
